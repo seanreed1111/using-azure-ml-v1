@@ -35,3 +35,4 @@ When using these labs in an instructoe-led course, students should use the Azure
 The labs are provided in this GitHub repo rather than in the student materials in order to (a.) share them with other learning modalities, and (b.) ensure that the latest version of the lab files is always used in classroom deliveries. This approach reflects the nature of an always-changing cloud-based interface and platform.
 
 Anyone can access the files in this repo, but Microsoft Learning support is limited to MCTs teaching this course only.
+From github.com/MicrosoftLearning/mslearn-dp100
